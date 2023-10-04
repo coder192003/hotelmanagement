@@ -1,12 +1,10 @@
 **************************************[Hotel Management System]********************************************
 
-This project is designed to help admin to maintain and keep track of info 
-about rooms and working staffs in the hotel. 
-Here the admin has all the privileges like  view/add/edit/remove rooms info and also staffs info.
- Here the admin can view a summary of Total rooms, Booked rooms, Available rooms, 
- Checked-in rooms, Customer complaints, Staffs, Total pending payments, Balance Payments, 
- Total earnings. In statistics page, admin can view additional info about Employees percentage 
- based on their roles, Hotel expenses, Reserved rooms count in day-wise graph.    
+This project is designed to help admin to maintain and keep track of info about rooms and working staffs in the hotel. 
+
+Admin has all the privileges like  view/insert/modify/delete staff and room informations.
+Admin can view a summary of Total rooms, Booked rooms, Available rooms,Checked-in rooms, Customer complaints, Staffs, Total pending payments, Balance Payments, Total earnings. 
+In statistics page, admin can view additional info about Employees percentage based on their roles, Hotel expenses, Reserved rooms count in day-wise graph.    
  
 Technologies: HTML, CSS, JavaScript, AJAX for frontend, PHP as a backend and MySQL for the database.
 
