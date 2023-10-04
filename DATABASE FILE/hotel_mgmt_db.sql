@@ -375,8 +375,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `username`, `email`, `password`, `created_at`) VALUES
-(2, 'Christine', 'christine', 'christine@gmail.com', 'fb1e75090b96d2e0abec0ec980c2f392', '2021-11-09 12:49:22'),
-(3, 'Joshua', 'joshua', 'joshua@gmail.com', 'd0a512f262ed34abed0c45cefe08c429', '2022-04-06 10:09:22');
+(1, 'Christine', 'christine', 'christine@gmail.com', 'fb1e75090b96d2e0abec0ec980c2f392', '2021-11-09 12:49:22');
 
 --
 -- Indexes for dumped tables

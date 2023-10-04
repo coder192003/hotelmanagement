@@ -2,7 +2,7 @@
 $HOSTNAME='localhost';
 $USERNAME='root';
 $PASSWORD='';
-$DATABASE='hotel_mgmt_db';
+$DATABASE='hotel';
 $con=mysqli_connect($HOSTNAME,$USERNAME,$PASSWORD,$DATABASE);
 if(!$con)
 die(mysqli_error($conn));
